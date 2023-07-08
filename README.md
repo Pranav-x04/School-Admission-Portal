@@ -1,1 +1,1 @@
-# Student-Admission-Portal
+# School-Admission-Portal
