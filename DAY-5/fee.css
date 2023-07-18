@@ -1,0 +1,40 @@
+.fee{
+    width: 450px;
+    background-color: whitesmoke;
+    overflow: hidden;
+    margin: 30 0 0 30px;
+    margin:auto;
+    padding: 60px;
+    backdrop-filter:blur(3px);
+    border-radius: 15px;
+    color:black;
+    font-family: Epilogue,sans-serif;
+    transform: translate(0,30%);
+    font-weight: 660;
+    }
+    #we:hover{
+        background-color: black;
+        color: white;
+    }
+    #we{
+        background-color: white;
+        color: black;
+    }
+    #btn{
+        background-color: black;
+    }
+   .fee{
+     color:white;
+     background-color: #000000e6;
+   }
+ #outlined-basic{
+    background-color: white;
+    border-radius: 10px;
+ }
+ #ph{
+    background-color: white;
+    border-radius: 10px;
+ }
+ #btn:hover{
+    background-color: white;
+ }
